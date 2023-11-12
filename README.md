@@ -10,7 +10,8 @@ This repository contains an implementation of Neural Style Transfer using Tensor
 ## Introduction
 
 Neural Style Transfer is an image processing technique that combines the content of one image with the artistic style of another image. It is based on deep neural networks and has been widely used in the field of computer vision and digital art. This repository provides a simple implementation of Neural Style Transfer using TensorFlow, allowing users to experiment with different styles and content images.
-/newline This repository contain two python notebooks the one named imagenet uses keras VGG 19 pretrained model to achive style trasfer and other notebook contains VGG 19 but trained on Kaggle dataset.
+
+This repository contain two python notebooks the one named imagenet uses keras VGG 19 pretrained model to achive style trasfer and other notebook contains VGG 19 but trained on Kaggle dataset.
 VGG was traied to classify Edgar Degan's art from other artist in the dataset.
 then block_1 through 5 were used in stlye trasfer alogrithm.
 the following
