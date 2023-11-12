@@ -6,9 +6,6 @@ This repository contains an implementation of Neural Style Transfer using Tensor
 
 - [Introduction](#introduction)
 - [Getting Started](#getting-started)
-- [Examples](#examples)
-- [Model Architecture](#model-architecture)
-
 
 ## Introduction
 
@@ -22,7 +19,7 @@ the following
 
 To get started with Neural Style Transfer, follow these steps:
 
-1. Clone this repository: `git clone https://github.com/your-username/style-transfer.git`
+1. Clone this repository: `https://github.com/Oogway-k/Style-Transfer`
 2. Explore the provided examples or use your own images.
 
 ## Dependencies
